@@ -1,7 +1,5 @@
 <h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/vue-argon-design-system">Hello Everyone, I am Roger.</a></h1>
 
-<p><img src='img/theme/webPagePic.png' alt="Product Gif" /></p>
-
 <h3 id="example-pages">A summary of myself.</h3>
 
 <p>As a skilled and enthusiastic person,  I am interested in expanding my skill set upon software development and engineering. I am a certified Full Stack Web Developer. Throughout my professional career,  I gained  some in-depth knowledge of computer programming languages such as JAVA EE, Node.js, React.js, Vue.js and PL/SQL. </p>
@@ -11,7 +9,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuesjs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
